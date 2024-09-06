@@ -38,3 +38,29 @@ Read the `data.json` file and display the data as tabs on desktop and an accordi
 Submission
 ---
 We recommend submitting your completed assessment as a forked repository. Please replace README content with instructions and relevant documentation.
+
+Navigation
+---
+
+To navigate to Exercise 1 and Exercise 2:
+
+1. Clone this repository to your local machine.
+2. Open the project in your preferred code editor.
+
+For Exercise 1:
+- Navigate to the `exercise1` folder.
+- Open `index.html` in your browser to view the responsive page.
+- The CSS files can be found in the `css` directory.
+
+For Exercise 2:
+- Navigate to the `exercise2` folder.
+- Open `index.html` in your browser to see the tabs/accordion implementation.
+- The JavaScript file can be found in the `js` directory.
+- The `data.json` file is located in the root of the `exercise2` folder.
+
+Note: Ensure you have a local server running to properly load the JSON file in Exercise 2.
+
+
+
+
+

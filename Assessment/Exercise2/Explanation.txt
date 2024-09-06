@@ -1,0 +1,7 @@
+Explanation:
+
+First, 'b' and 'a' are combined to make 'ba'.
+Then, JavaScript tries to turn the next 'a' into a number, but it can't, so it becomes NaN (which stands for "Not a Number").
+Now, 'ba' and NaN are put together to form 'baNaN'.
+After that, the next 'a' is added, making it 'baNaNa'.
+Finally, .toLowerCase() changes all the letters to lowercase, giving us 'banana'.
